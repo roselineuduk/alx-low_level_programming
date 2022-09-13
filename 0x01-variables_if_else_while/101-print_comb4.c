@@ -10,8 +10,8 @@ int main(void)
 	int j = '0';
 
 	int k = '0';
-	while (i <= '7')
 
+	while (i <= '7')
 	{
 		while (j <= '8')
 		{
