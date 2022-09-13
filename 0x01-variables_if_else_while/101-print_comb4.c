@@ -11,6 +11,7 @@ int main(void)
 
 	int k = '0';
 	while (i <= '7')
+
 	{
 		while (j <= '8')
 		{
