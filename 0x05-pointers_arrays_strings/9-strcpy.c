@@ -1,4 +1,6 @@
-* _strcpy - copies a string frim one pointer to another
+#include "main.h"
+	/**
+	 * _strcpy - copies a string frim one pointer to another
 * including the terminating null byte(\0)
 	*
 	* @src: source of string parameter input
